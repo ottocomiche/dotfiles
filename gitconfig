@@ -60,3 +60,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = otto.comiche@gmail.com
+	name = Otto Comiche
